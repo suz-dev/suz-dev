@@ -3,7 +3,7 @@
 ![Sujeong Jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=suz-dev&show_icons=true&theme=rose_pine)
 
 [![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dubidub)](https://solved.ac/dubidub/)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dubidub)](https://solved.ac/dubidub)
 
 <!--
 **suz-dev/suz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
